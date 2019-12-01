@@ -1,0 +1,169 @@
+Design Thinking
+  - Norman:  Never solve the problem requested!
+    - kind of like root-cause analysis
+    - customer will report a sysmptom
+    - "solution" depends on history
+  - Norman:
+    - Engineers are trained to solve problems.
+    - Designers are trained to discover the real problem.
+  - listen to customer's problem
+    - but understand customer
+    - what are they trying to do
+    - why are they doing it
+    - what are their capabilities
+  - techniques to avoid entrapment
+    - ask dumb questions
+    - iterate (use 5 whys)
+  - Human Centred Design
+    - meet people's needs
+  - British Design Council created the Double Diamond
+    - :ANIM:DoubleDiamond
+  - iteration
+    - -> observation
+    - -> ideation
+    - -> prototyping
+    - -> testing
+    - observation
+      - applied ethnography
+        - studying people, for a purpose (designing products)
+        - start by defining the group
+          - define them by what they do and can do
+          - do not define by age, residence, etc., without reason
+        - test where it will be used
+        - getting to know your user
+          - how they feel
+          - why they think the way they do
+        - skill is knowing which details are relevant
+      - NOT market research
+        - not about finding most popular
+        - not about quantifying market
+        - not Big Data
+        - they are useful, but not part of Design
+      - NOT A/B testing
+        - not comparing two implementations
+      - traps:
+        - user will only describe "typical" cases
+          - observe and ask "what if" questions
+        - user will only describe interesting steps
+        - user will describe relative to existing tech
+    - ideation
+      - don't pick an idea to early
+      - use artificial constraints to spur imagination
+        - artificial budgets or deadlines
+        - best solution with technology X
+        - can we do it without technology X
+      - need every idea
+        - "bad" ideas may contain insight you need later
+      - ask stupid questions
+    - prototyping
+      - only way to know if it works is testing
+      - low-fidelity prototypes
+        - could be cardboard
+        - could be a slide presentation
+        - "Wizard of Oz" technique
+          - people pretend to be computers
+          - saves time to get feedback
+        - could use a general tool, with "special rules"
+      - as you iterate, prototypes becomre more functional
+    - testing
+      - test with small group (1 - 5 people)
+        - >1 people will discuss what they are doing
+      - test with the targetted user type
+      - test in the targetted situation
+      - ask them to use product "normally"
+      - video (with permision)
+      - iterate
+        - better to do more iterations with 5 than one large test
+        - collecting good requirements requires observation
+          - cannot observe without prototype
+          - improved prototype -> more relevant observations
+        - iteration can go back to any point in the diamonds
+  - Activity-Centered vs Human-Centred
+    - what if you need more than one customer?
+      - Actvity-Centered Design focusses on activities
+        - design for a typical person performing that activity
+          - still ask, why are they doing it
+          - how do they feel about it
+          - what are the barriers?
+        - some activities are common across the world
+        - some activities are culturally determined
+    - activities versus tasks
+      - activities acheive high-level goals
+        - listenting to music
+      - tasks achieve low-level goals
+        - storing a file on a portable device
+      - high-level goals drive satisfaction
+        - great design focuesses on high-level goals
+      - Carver and Scheier suggest a hierarchy of goals
+        - be-goals
+          - tied to self-image
+          - long-lasting
+          - most abstract
+        - do-goals
+          - plans and actions, tasks
+        - motor-goals
+          - operations
+      - iPod is the poster-child for activity design
+        - others had cumbersome interfaces
+        - Windows CE, and many others focussed on file manipulation
+          - was good for tiny set of users
+          - nobody wanted to use it
+        - iPod focussed on music
+          - good for everyone who listened to music
+          - led to the innovative click-wheel
+          - people were willing to learn
+  - Iterative Design
+    - waterfall and other gated methods seem at odds with DT
+      - gates are pinch-points you have to pass through
+        - makes sure everyone agrees about what needs to be done
+        - lets managers feel they know what is going on
+      - but, late changes are more costly
+        - better to prototype early and find problems
+      - gated methods can deliver the thing, but not necessarily done right
+      - still useful fiction for documentation, see "faking it" paper
+      - only great companies will let you really do design thinking
+  - The Design Challenge
+    - how to reconcile tight schedules with DT?
+      - use parallelism
+        - keep DT teams in the field, prototyping ideas
+        - gates in the waterfall method are when teams transfer best knowledge
+        - DT teams figure out what people need
+        - marketting teams figure out what they will buy
+        - manufacturing teams figure out how to build it
+        - service needs to be able to fix it
+        - sales needs to communicate the value
+      - need to understand the needs of each team
+        - design a process where they can work together
+          - think about product management processes in this way
+  - Multiple Stakeholders
+    - users do not always choose products
+      - consider appliances
+        - many are purchased by developers, and property managers
+          - price and looks beat usability
+      - consider photocopiers
+        - managers who buy them have assistants who suffer with them
+      - consider education
+        - children attend school, camps, etc.
+        - parents choose where to send them
+        - politicians choose projects based on publicity
+Standardization
+  - groups of people agree on a common choice
+    - could be IETF RFCs defining web
+    - could be metric
+    - could because of copy-cat behaviour
+  - benefits
+    - users can expect the same behaviour
+      - reduces switching costs
+    - products can work together with standard interfaces
+      - imagine not being able to plug things in
+    - mass production can reduce costs
+  - barriers
+    - people prefer a bad system they know
+      - metric again!
+      - QWERTY keyboards (designed to slow you down)
+Anti-affordances
+  - there are many cases where we make things hard for users
+  - make operation counter to likely conceptual model
+    - so people with dementia cannot get out alone
+  - require multiple people to work simultaneously
+    - so two people have to conspire to steal stuff
