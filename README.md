@@ -1,5 +1,8 @@
 # DesignThinking-Revamp
-This repo contains materials related to creating a solution that will ease the transition into design thinking methodology. Currently beginners find the design thinking process difficult, more help and better organization of resources is needed for a smooth transition into this beneficial framework.
+This repo contains materials related to creating a solution that will ease the transition into design thinking methodology. 
+
+**Problem:**
+Currently beginners find the design thinking process difficult, more help and better organization of resources is needed for a smooth transition into this beneficial framework.
 
 ### Project Scope
 
@@ -27,7 +30,7 @@ This repo contains materials related to creating a solution that will ease the t
  - Get feedback, revise
  - Repeat...
  
-#### Part Three: International Fame & Fortune
+#### Part Three: *International Fame & Fortune*
   - Publish work to a journal
     + Journal of Design Studies
     + Journal of Design Thinking
