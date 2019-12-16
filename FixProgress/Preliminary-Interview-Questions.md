@@ -13,3 +13,6 @@ This document contains questions to be asked during in-class interviews about us
  4. Is there a competing methodology you find more helpful? If so what?
  5. What was most challenging?
  6. What would you improve? How?
+ 7. Do you think you will implement things that you’ve learned in this course or do you prefer another method?
+ 8. How did this course differ from what you think you would have learn/what you would have wanted to learn
+ 9. Why is it important to learn good design?
